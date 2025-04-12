@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="14" failures="0" errors="0" time="4.795">
+  <testsuite name="User Registration" errors="0" failures="0" skipped="0" timestamp="2025-04-11T23:36:00" time="3.878" tests="7">
+    <testcase classname="User Registration User Registration - Successful user registration [@smoke]" name="User Registration User Registration - Successful user registration [@smoke]" time="0.316">
+    </testcase>
+    <testcase classname="User Registration Registration with various credentials" name="User Registration Registration with various credentials" time="0.301">
+    </testcase>
+    <testcase classname="User Registration Registration with various credentials" name="User Registration Registration with various credentials" time="0.037">
+    </testcase>
+    <testcase classname="User Registration Registration with various credentials" name="User Registration Registration with various credentials" time="0.025">
+    </testcase>
+    <testcase classname="User Registration Registration with various credentials" name="User Registration Registration with various credentials" time="0.033">
+    </testcase>
+    <testcase classname="User Registration User Registration - Registration with data table [@regression]" name="User Registration User Registration - Registration with data table [@regression]" time="0.387">
+    </testcase>
+    <testcase classname="User Registration User Registration - Registration with detailed response validation [@regression]" name="User Registration User Registration - Registration with detailed response validation [@regression]" time="0.17">
+    </testcase>
+  </testsuite>
+  <testsuite name="User Login" errors="0" failures="0" skipped="0" timestamp="2025-04-11T23:36:00" time="4.154" tests="7">
+    <testcase classname="User Login User Login - Successful login [@smoke]" name="User Login User Login - Successful login [@smoke]" time="0.644">
+    </testcase>
+    <testcase classname="User Login Login with various credentials" name="User Login Login with various credentials" time="0.234">
+    </testcase>
+    <testcase classname="User Login Login with various credentials" name="User Login Login with various credentials" time="0.02">
+    </testcase>
+    <testcase classname="User Login Login with various credentials" name="User Login Login with various credentials" time="0.186">
+    </testcase>
+    <testcase classname="User Login Login with various credentials" name="User Login Login with various credentials" time="0.037">
+    </testcase>
+    <testcase classname="User Login Login with various credentials" name="User Login Login with various credentials" time="0.175">
+    </testcase>
+    <testcase classname="User Login User Login - Login with data table [@regression]" name="User Login User Login - Login with data table [@regression]" time="0.186">
+    </testcase>
+  </testsuite>
+</testsuites>
